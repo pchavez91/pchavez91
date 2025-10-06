@@ -15,7 +15,7 @@ Me especializo en la **creación de soluciones digitales** robustas, desde el de
 💻 Stack de Tecnologías
 
 | **Backend / Scripting** | **Python**, **PHP**, **C#** |
-| **Frontend** | **HTML**, **CSS**, **JavaScript** |
+| **Frontend** | **HTML**![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white), **CSS**, **JavaScript** |
 | **Bases de Datos** | **SQL** (Conocimiento en diseño y consulta) |
 
 
