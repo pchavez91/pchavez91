@@ -35,9 +35,9 @@ Aquí tienes una visión general de las tecnologías que utilizo en mis proyecto
 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pchavez91&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pchavez91&layout=compact&theme=radical&hide_border=true)
   
-  [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pchavez91&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pchavez91&show_icons=true&theme=radical&hide_border=true)
 </div>
 
 📧 Conectemos
