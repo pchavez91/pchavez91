@@ -43,5 +43,5 @@ Aquí tienes una visión general de las tecnologías que utilizo en mis proyecto
 
 Siempre estoy abierto a nuevas oportunidades y a conectar con otros desarrolladores.
 
-* 🔗 LinkedIn: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/patricio-chavez-005b83352)
+* 🔗 LinkedIn: [Patricio Chávez](https://www.linkedin.com/in/patricio-chavez-005b83352)
 * ✉️ Email: `pchavez.dev@gmail.com`
